@@ -13,5 +13,5 @@
 ![image](https://github.com/Jarilar/MNSS-J/blob/master/%E7%BB%BC%E5%90%88%E7%BB%88%E7%AB%AF.gif)
 
 
-受保密协议影响，校准程序以及3in1程序安装包不再开放提供下载
+受保密协议影响，校准程序以及3in1程序安装包不再开放
 邮箱：jarilarzhao@gamil.com
