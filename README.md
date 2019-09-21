@@ -14,4 +14,4 @@
 
 
 受保密协议影响，校准程序以及3in1程序安装包不再开放
-邮箱：jarilarzhao@gamil.com
+邮箱：jarilarzhao@gmail.com
